@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348162159505",
+    "project_id": "eastern-braid-328618",
+    "storage_bucket": "eastern-braid-328618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348162159505:android:ef7737d08337aabed8a030",
+        "android_client_info": {
+          "package_name": "com.company.flut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiBYsnD0q0iSewxOBi8LQnc0ZLg2yd1kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
